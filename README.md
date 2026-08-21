@@ -21,4 +21,3 @@ pip install -r requirements.txt
 
 
 
-postgresql://agentmemory_xzcc_user:VeM7lP0YVZCF7kalFJqC8BBzTzic9jSQ@dpg-da2o5637uimc73b3qil0-a.virginia-postgres.render.com/agentmemory_xzcc
